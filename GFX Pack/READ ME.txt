@@ -1,0 +1,14 @@
+Hello! Thanks for downloading Milton's GFX Effect Pack! 
+You will need to watch my youtube video to understand the 
+whole procces! Video name: "Pixlr - How to make your own thumbnails!"
+
+-Gfx Sites.bat - To make it easier for you to get your own effects, there will be two sites for you! 
+You will need to open this batch file up to get the website, 
+or you can watch my youtube video! Video name: "Pixlr - How to make your own thumbnails!"
+
+-Effects - Here you have the my effects for your Gfx experience!
+
+
+
+
+
